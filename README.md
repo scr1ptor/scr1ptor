@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hi, I am LUMIX</h1>
 
-<!--
-**scr1ptor/scr1ptor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```sh
+~/scr1ptor: fetch.sh
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" src="https://avatars.githubusercontent.com/u/162279855?v=4" width="400" />
+
+```haskell
+scr1ptor@github
+------------------------------
+pronouns  • he/him
+hobbies   • programming, designing,
+            watching anime, drink coffee.
+
+skills    • html, css, javascript,
+                node.js
+learning  • C++
+------------------------------
