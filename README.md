@@ -7,14 +7,16 @@
 
 <img align="left" src="https://avatars.githubusercontent.com/u/162279855?v=4" width="400" />
 
-```haskell
+```c++
 scr1ptor@github
 ------------------------------
 pronouns  • he/him
 hobbies   • programming, designing,
             watching anime, drink coffee.
+education • computer science student 
 
 skills    • html, css, javascript,
-                node.js
+            node.js
 learning  • C++
 ------------------------------
+```
