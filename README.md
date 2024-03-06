@@ -20,3 +20,4 @@ skills    • html, css, javascript,
 learning  • C++
 ------------------------------
 ```
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=scr1ptor&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="scr1ptor" /></p>
