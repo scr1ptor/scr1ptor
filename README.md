@@ -5,7 +5,7 @@
 ~/scr1ptor: fetch.sh
 ```
 
-<img align="left" src="https://avatars.githubusercontent.com/u/162279855?v=4" width="400" />
+<img align="left" src="https://avatars.githubusercontent.com/u/129642624?v=4" width="400" />
 
 ```c++
 scr1ptor@github
